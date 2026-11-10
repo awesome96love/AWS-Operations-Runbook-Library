@@ -1,5 +1,5 @@
 # AWS-RDS-002 — Migrating a Database to Amazon RDS
-
+**Lab execution checklist:** [GitHub Issue #1](https://github.com/awesome96love/AWS-Operations-Runbook-Library/issues/1)
 > **AWS Academy Cloud Architecting | Module 5 Challenge Lab**  
 > **Status:** Completed and validated (November 7, 2026) | **Environment:** AWS Academy temporary lab  
 > **Services:** Amazon RDS (MariaDB), EC2, VPC, Secrets Manager, Systems Manager
