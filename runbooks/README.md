@@ -11,4 +11,6 @@ Each runbook includes:
 
 ## Runbook Index
 
-Runbooks will be added as they are completed and reviewed.
+| Runbook | Description | Execution Checklist |
+|---|---|---|
+| [AWS-RDS-002](AWS-RDS-002_Migrate-Database-to-Amazon-RDS.md) | Migrate a MariaDB database from EC2 to Amazon RDS | [Issue #1](https://github.com/awesome96love/AWS-Operations-Runbook-Library/issues/1) |
