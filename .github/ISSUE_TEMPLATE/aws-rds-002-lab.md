@@ -1,3 +1,8 @@
+---
+name: AWS-RDS-002 Lab Execution
+about: Reusable checklist for migrating the café database to Amazon RDS.
+title: 'Lab Execution — AWS-RDS-002 — Database Migration'
+---
 # AWS-RDS-002 — Lab execution checklist
 
 **Runbook:** [AWS-RDS-002 — Migrating a Database to Amazon RDS](../blob/main/runbooks/AWS-RDS-002_Migrate-Database-to-Amazon-RDS.md)  
