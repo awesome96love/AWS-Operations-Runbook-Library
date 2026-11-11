@@ -13,4 +13,5 @@ Each runbook includes:
 
 | Runbook | Description | Execution Checklist |
 |---|---|---|
+| [AWS-RDS-001](AWS-RDS-001_Create-Amazon-RDS-Database.md) | Create and connect an Amazon RDS MySQL database | [New checklist](../.github/ISSUE_TEMPLATE/aws-rds-001-lab.md) |
 | [AWS-RDS-002](AWS-RDS-002_Migrate-Database-to-Amazon-RDS.md) | Migrate a MariaDB database from EC2 to Amazon RDS | [Issue #1](https://github.com/awesome96love/AWS-Operations-Runbook-Library/issues/1) |
